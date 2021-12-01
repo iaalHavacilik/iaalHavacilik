@@ -8,9 +8,9 @@
 
 <br/>
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=iaalHavacilik&theme=react-dark" width="635" /> 
-</p>
+</p> -->
 
 
 ## Utilities
