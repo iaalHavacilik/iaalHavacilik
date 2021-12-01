@@ -43,7 +43,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
   
-<img style="margin-left:15px" src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" />
+<img style="padding-left:15px" src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" />
  </p>
 
 <img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/ss-removebg-preview.png?raw=true" />
