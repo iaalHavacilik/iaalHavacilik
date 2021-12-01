@@ -26,11 +26,13 @@
   
   ### Utilities
    <p align="left">
+  
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/10/openrocket.png" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" height="40" />
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/10/openrocket.png" width="40" height="40" />
+  
   
 </p>
