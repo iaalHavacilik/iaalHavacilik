@@ -13,7 +13,7 @@
 </p>
 
 
-## Our Utilities and Achievements
+## Our Utilities
 
   ### Programming Languages
   <p align="left">
