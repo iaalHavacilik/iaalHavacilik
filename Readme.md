@@ -38,11 +38,13 @@
   
 </p>
 
-<img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/ss-removebg-preview.png?raw=true" />
-
 ## Social Accounts
 
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
 <img src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" />
+ </p>
+
+<img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/ss-removebg-preview.png?raw=true" />
 
 
