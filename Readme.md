@@ -38,6 +38,6 @@
   
 </p>
 
-<img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/68747470733a2f2f7777772e7465616875622e696f2f70686f746f732f66756c6c2f33312d3331303739315f726f636b65742d6c61756e63682d77616c6c70617065722d726f636b65742d77616c6c7061706572732d346b2e6a7067-removebg-previe.png?raw=true" />
+<img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/ss-removebg-preview.png?raw=true" />
 
 
