@@ -25,7 +25,7 @@
   </p>
   
   
-  ### Apps
+  ### Programs
    <p align="left">
   
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/10/openrocket.png" width="60" height="60" />
