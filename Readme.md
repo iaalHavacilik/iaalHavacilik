@@ -43,11 +43,13 @@
 
 
 
-<img style="padding-left:15px" src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" />
+<a href="https://www.instagram.com/iaalhavacilik/"><img style="padding-left:15px" src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" /></a>
 
-<img src="https://icongr.am/entypo/twitter.svg?size=128&color=349aaf" width="60" height="60" />
+<a href=""><img src="https://icongr.am/entypo/twitter.svg?size=128&color=349aaf" width="60" height="60" /></a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/></a>
+
+
 
 
 <img src="https://github.com/iaalHavacilik/iaalHavacilik/blob/main/ss-removebg-preview.png?raw=true" />
