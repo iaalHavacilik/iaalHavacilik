@@ -42,7 +42,7 @@
 
 
 
-<p>
+<p align="left"> 
 <a href="https://www.instagram.com/iaalhavacilik/"><img style="padding-left:15px" src="https://icongr.am/entypo/instagram.svg?size=128&color=bc1d61" width="60" height="60" /></a>
 
 <a href=""><img src="https://icongr.am/entypo/twitter.svg?size=128&color=349aaf" width="60" height="60" /></a>
