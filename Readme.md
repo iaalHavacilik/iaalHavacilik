@@ -31,6 +31,6 @@
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" height="40" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fopenrocket&psig=AOvVaw1oD6SBBAa1CFJsUpO7-1BI&ust=1638468807029000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDn4Iuaw_QCFQAAAAAdAAAAABAD" width="40" height="40" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fopenrocket&psig=AOvVaw1oD6SBBAa1CFJsUpO7-1BI&ust=1638468807029000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDn4Iuaw_QCFQAAAAAdAAAAABAN" width="40" height="40" />
   
 </p>
